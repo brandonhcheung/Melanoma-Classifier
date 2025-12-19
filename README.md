@@ -1,7 +1,7 @@
 # Melanoma Classification Using CNN and EfficientNet
 
+#### - For a more detailed analysis of model performance, evaluation metrics, and medical considerations, see **Melanoma Classifer Report (PDF)** in this repository.
 **Members:** Brandon Cheung · Kareem Hamideh · Karim Grar · Kyungdon Baik  
-
 ---
 
 ## Overview
